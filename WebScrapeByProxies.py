@@ -7,7 +7,7 @@ gfgurl = 'https://www.geeksforgeeks.org/getting-started-with-python-programming/
 proxies_list = [
     {'ip': '00.000.00.134', 'port': '6540'},
     {'ip': '00.000.007.165', 'port': '6712'},
-    #You can add more proxies, or use only single proxies
+    #You can add more proxies, or only single proxies
 ]
 
 proxy_user = 'YourUserID'

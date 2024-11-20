@@ -3,7 +3,7 @@ import time
 
 economictimes = 'https://economictimes.indiatimes.com/markets/ipo'
 
-# sleep for mimic human behavior
+# sleep for human behavior
 time.sleep(2)
 try:
     r = requests.get(economictimes, timeout=10)
